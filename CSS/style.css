@@ -1,0 +1,66 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.wrap {
+    color: #ffc5b0;
+    min-height: 100%;
+}
+
+.FIO {
+    text-align: center;
+    color: #ffede6;
+}
+
+.group {
+    text-align: center;
+    color: #ffede6;
+}
+
+.img {
+    text-align: center;
+    height: 150px;
+    padding-top: 30px;
+    background-color: #ff6329;
+}
+
+.img img{
+    border-radius: 60px;
+    width: 120px;
+    height: 120px;
+}
+
+.info {
+    text-align: center;
+}
+
+.hobbies {
+    margin-top: 80px;
+    position: relative;
+    margin-left: 80px;
+}
+
+.hobbies p {
+    position: absolute;
+    float: right;
+    margin-left: 320px;
+    margin-top: -130px;
+}
+
+.hobbies img {
+    padding-left: 130px;
+}
+
+.footer {
+    background-color: #ff6329;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+    padding-left: 20px;
+}
+
+.footer img {
+    margin-left: 20px;
+}
